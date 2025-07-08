@@ -20,9 +20,9 @@ Uma calculadora simples desenvolvida com Angular. Este projeto permite realizar 
 ## 📦 Instalação
 
 1. Clone o repositório:
-   ```bash
-   git clone https://github.com/Frezende76/meu-projeto-calculadora.git
-   ```
+```bash
+git clone https://github.com/Frezende76/meu-projeto-calculadora.git
+```
 
 2. Acesse a pasta do projeto:
 
@@ -32,15 +32,13 @@ cd meu-projeto-calculadora
 
 3. Instale as dependências:
 
-```
-bash
+```bash
 npm install
 ```
 
 4. Execute o projeto:
 
-```
-bash
+```bash
 ng serve
 ```
 
