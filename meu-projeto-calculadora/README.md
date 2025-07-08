@@ -21,7 +21,7 @@ Uma calculadora simples desenvolvida com Angular. Este projeto permite realizar 
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/Frezende76/meu-projeto-calculadora.git
+git clone https://github.com/Frezende76/Projeto_Angular_19.git
 ```
 
 2. Acesse a pasta do projeto:
