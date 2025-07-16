@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { CommonModule } from '@angular/common';
 import { MatInputModule } from '@angular/material/input';
 import { MatCardModule } from '@angular/material/card';
 import { FlexLayoutModule } from '@angular/flex-layout';
@@ -26,6 +27,7 @@ import { Cliente } from '../cadastro/cliente';
 export class ConsultaComponent implements OnInit {
 
   listaClientes: Cliente[] = [];
+  colunasTable: string[] = ["id", "nome", "cpf", "dataNascimento", "email"]
 
   constructor(private service: ClienteService){
 
